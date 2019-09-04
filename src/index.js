@@ -10,3 +10,4 @@ var i = 0;
 var f = 0.0;
 var n = null;
 var t = NaN;
+var u = undefined;
